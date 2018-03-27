@@ -16,4 +16,4 @@ docker run -it --rm -v /dataPack:/sqlmap/dataPack test:test -r dataPack/1.txt
 ## todo
 1、将sqlmap导入我的仓库，并加强
 
-2、将dockerfile中的sqlmap地址改为修改后的“增强版”sqlmap
+2、将dockerfile中的sqlmap地址改为修改后的“增强版”sqlmap
