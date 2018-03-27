@@ -1,6 +1,6 @@
 ## 这是个啥
 
-在docker中运行sqlmap，更多关于[sqlmap](http://sqlmap.org/)
+在docker中运行sqlmap，更多关关于[sqlmap](http://sqlmap.org/)
 
 ## 怎么使用
 
