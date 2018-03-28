@@ -10,7 +10,7 @@
 
 像下面这样
 ```
-docker run -it --rm -v /dataPack:/sqlmap/dataPack nancheal:docker -r dataPack/1.txt
+docker run -it --rm -v /dataPack:/sqlmap/dataPack nancheal:docker4sqlmap -r dataPack/1.txt
 ```
 
 ## todo
