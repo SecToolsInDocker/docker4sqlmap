@@ -17,11 +17,11 @@ docker run -it --rm -v /Users/nanchealdu/workflow/PTETarget/dataPack:/sqlmap/dat
 
 ## finish
 
-[x]安装sqlalchemy，增加对sqlmap -d的支持
+- [x] 安装sqlalchemy，增加对sqlmap -d的支持
 
-[x]优化sqlmap读入参数的模式，解决 -v 等一些和docker本身冲突的选项
+- [x] 优化sqlmap读入参数的模式，解决 -v 等一些和docker本身冲突的选项
 
 ## todo
-[]将sqlmap导入我的仓库，并加强
+- [ ] 将sqlmap导入我的仓库，并加强
 
-[]将dockerfile中的sqlmap地址改为修改后的“增强版”sqlmap
+- [ ] 将dockerfile中的sqlmap地址改为修改后的“增强版”sqlmap
