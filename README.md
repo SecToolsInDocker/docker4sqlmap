@@ -12,7 +12,7 @@
 
 像下面这样
 ```
-docker run -it --rm -v /Users/nanchealdu/workflow/PTETarget/dataPack:/sqlmap/dataPack test -O "-r dataPack/1.txt -v 3"
+docker run -it --rm -v C:\Users\nanch\dataPack\dataPack:/sqlmap/dataPack nancheal/docker4sqlmap -O "-r dataPack/1.txt -v 3"
 ```
 
 ## finish
